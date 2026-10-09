@@ -1,0 +1,25 @@
+# 원본 자료·자격 파일·로컬 검토 자료를 추적하지 않는다.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.dump
+*.sql
+*.db
+*.sqlite*
+*.zip
+*.log
+__pycache__/
+*.pyc
+*.class
+build/
+out/
+.venv/
+node_modules/
+private/
+reports/
+raw/
+data/
+credentials/
